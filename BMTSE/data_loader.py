@@ -15,7 +15,7 @@ def load_Dataset_cocktail_all(root, batch_size, shuffle=False):
     random.seed(42)
     
     for subject in subject_indices:
-        file_name = f'subj_{subject+1}_epochs.npz'
+        file_name = f'filename{subject}'
         subject_dataset = EEGDataset_cocktail(root=root, file_name=file_name, subject_index=subject)
         # 验证数据集大小是否符合预期
         subject_len = len(subject_dataset)
@@ -61,7 +61,7 @@ def load_Dataset_KUL_all(root, batch_size, shuffle=False):
     random.seed(42)
     
     for subject in subject_indices:
-        file_name = f's{subject+1}.npz'
+        file_name = f'filename{subject}'
         subject_dataset = EEGDataset_KUL(root=root, file_name=file_name, subject_index=subject)
         # 验证数据集大小是否符合预期
         subject_len = len(subject_dataset)
