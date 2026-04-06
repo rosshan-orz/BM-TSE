@@ -5,6 +5,7 @@
 _Brainprint-Modulated Target Speaker Extraction_
 
 [![Paper](https://img.shields.io/badge/arXiv-Ready%20to%20Go-red)](https://arxiv.org/)
+[![Conference](https://img.shields.io/badge/ICASSP_2026-Accepted-00629B)](https://cmsworkshops.com/ICASSP2026/view_session.php?SessionID=1460)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org)
