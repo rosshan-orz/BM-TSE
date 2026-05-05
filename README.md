@@ -16,6 +16,15 @@ _Brainprint-Modulated Target Speaker Extraction_
 <img src="figure/main.png" style="width: 95%;" />
 </div>
 
+🎧 Audio Presentation & Guided Tour
+Welcome to the official repository for BM-TSE: Brainprint-Modulated Target Speaker Extraction.
+If you are visiting from the ICASSP 2026 poster session in Barcelona, please listen to the audio walkthrough below.
+
+<audio controls>
+  <source src="https://github.com/rosshan-orz/BM-TSE/raw/main/intro.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
 ## 🎯 Overview
 
 **BM-TSE** is a novel, end-to-end framework designed for personalized and high-fidelity neuro-steered Target Speaker Extraction (TSE).
