@@ -20,10 +20,7 @@ _Brainprint-Modulated Target Speaker Extraction_
 Welcome to the official repository for BM-TSE: Brainprint-Modulated Target Speaker Extraction.
 If you are visiting from the ICASSP 2026 poster session in Barcelona, please listen to the audio walkthrough below.
 
-<audio controls>
-  <source src="https://github.com/rosshan-orz/BM-TSE/raw/main/intro.m4a" type="audio/mp4">
-  Your browser does not support the audio element.
-</audio>
+https://github.com/user-attachments/assets/c4249d8c-baf1-4bbf-b20b-3f511e114e94
 
 ## 🎯 Overview
 
